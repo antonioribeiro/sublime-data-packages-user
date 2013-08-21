@@ -1,0 +1,3 @@
+[
+	{ "keys": ["ctrl+shift+a"], "command": "show_panel", "args": {"panel": "find_in_files"} },
+]
