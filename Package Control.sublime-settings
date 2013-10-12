@@ -2,6 +2,7 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Alignment",
 		"Dayle Rees Color Schemes",
 		"Default File Type",
@@ -9,8 +10,10 @@
 		"HtmlTidy",
 		"Laravel Snippets",
 		"LiveStyle",
+		"Markdown Preview",
 		"Origami",
 		"Package Control",
+		"Paste as Column",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SyncedSideBar",
