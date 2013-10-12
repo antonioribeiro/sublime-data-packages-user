@@ -4,25 +4,17 @@
 	"color_scheme": "Packages/Antonio Ribeiro's Color Schemes/Sunburst.tmTheme",
 	"fade_fold_buttons": false,
 	"font_face": "consolas",
-<<<<<<< HEAD
 	"font_size": 12,
 	"highlight_line": true,
-	"ignored_packages":
-	[
-		"SublimeLinter",
-		"SyncedSideBar",
-		"Emmet",
-		"SublimeCodeIntel",
-		"Vintage"
-=======
 	"font_size": 15,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
+		"Emmet",
+		"SublimeCodeIntel",
 		"SublimeLinter",
-		"Emmet"
->>>>>>> 641bbe2a04dc753ea69c5ffb5bde4b8300ebe22c
+		"SyncedSideBar",
+		"Vintage"
 	],
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
